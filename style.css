@@ -1,0 +1,12 @@
+* {
+    font-family:'Nunito'
+}
+fieldset{
+    margin-right:80% ;
+    padding: 10px;
+    background-color: #e3d5ca;
+}
+button{
+    padding: 7px;
+    background-color: #edede9;
+}
