@@ -1,12 +1,22 @@
-* {
-    font-family:'Nunito'
+body {
+    font-family:'Nunito';
+    display: flex;
+    justify-content:center;
+    align-items:center;
+
 }
 fieldset{
     margin-right:80% ;
     padding: 10px;
     background-color: #e3d5ca;
+
 }
 button{
     padding: 7px;
     background-color: #edede9;
+    border-radius:7px;
+    border:none;
+
 }
+
+
